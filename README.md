@@ -1,4 +1,4 @@
-# Complete list Indonesia Privince, City and Subdistrict based on Rajaongkir Pro
+# Complete list Indonesia Province, City and Subdistrict based on Rajaongkir Pro
 Usage
 
     git clone https://github.com/David-Kurniawan/indonesia-geo-db.git
